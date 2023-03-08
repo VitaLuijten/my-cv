@@ -15,14 +15,20 @@ body {
 
 .resume-header {
     background-color: #FBD4FB;
+
 }
 
 .resume-main {
 	background-color: #FBD4FB;
+	border-top: solid;
+	border-color: #67138A;
 }
 
 .resume-aside {
 	background-color: #FBD4FB;
+	border-left: solid; 
+	border-top: solid;
+	border-color: #67138A;
 }
 
 /* Styles for lists in the document */
@@ -36,7 +42,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #660080;
 }
 
 .biography-details li, .skill-list li {
@@ -49,3 +55,14 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.fw-bolder { font-family: 'Rampart One', cursive;
+color: #7311BD}
+
+h2 {font-family: 'Montserrat', sans-serif;} 
+
+h4 {font-family: 'Montserrat', sans-serif;} 
+
+
+.language-progress {background-color: #BC76CA !important;}
+.border {border-color: #600FA2 !important} 
