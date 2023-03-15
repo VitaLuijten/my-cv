@@ -6,29 +6,29 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Abril Fatface', cursive;
 	color: #202030;
-	background-color:#E18AEB;
+	background-color:#F2D0FB;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #FBD4FB;
+    background-color: #9E22FF;
 
 }
 
 .resume-main {
-	background-color: #FBD4FB;
+	background-color: #FFFFFF;
 	border-top: solid;
-	border-color: #67138A;
+	border-color: #000000;
 }
 
 .resume-aside {
-	background-color: #FBD4FB;
+	background-color: #CE8EFF;
 	border-left: solid; 
 	border-top: solid;
-	border-color: #67138A;
+	border-color: #000000;
 }
 
 /* Styles for lists in the document */
@@ -56,13 +56,25 @@ body {
 	flex-basis: 1.4em;
 }
 
-.fw-bolder { font-family: 'Rampart One', cursive;
-color: #7311BD}
+.fw-bolder {font-family: 'Abril Fatface', cursive;
+color: #3E0D58}
 
-h2 {font-family: 'Montserrat', sans-serif;} 
+h1 {font-family: 'Abril Fatface', cursive;}
 
-h4 {font-family: 'Montserrat', sans-serif;} 
+h2 {font-family: 'Abril Fatface', cursive;}
+
+h4 {font-family: 'Abril Fatface', cursive;} 
+
+li {font-family: 'Abril Fatface', cursive;}
+
 
 
 .language-progress {background-color: #BC76CA !important;}
 .border {border-color: #600FA2 !important} 
+
+.white-text {color:white;}
+
+.bold-900 {
+	font-family: 'Prompt', sans-serif;
+	font-weight: 900;
+}
