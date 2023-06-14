@@ -57,34 +57,57 @@ body {
 	flex-basis: 1.4em;
 }
 
-.fw-bolder {font-family: 'Abril Fatface', cursive;
-color: #FFFFFF}
+.fw-bolder {
+	font-family: 'Abril Fatface', cursive;
+color: #FFFFFF
+}
 
-.language-progress {background-color: #FFFFFF !important;}
-.border {border-color: #600FA2 !important} 
+.language-progress {
+	background-color: #FFFFFF !important;
+}
+.border {
+	border-color: #600FA2 !important
+} 
 
-.white-text {color:white;}
+.white-text {
+	color:white;
+}
 
-.languages-white-text {color: white}
+.languages-white-text {
+	color: white
+}
 
-.language-name {color: white}
+.language-name {
+	color: white
+}
 
-.other-skills-white-text {color: white}
+.other-skills-white-text {
+	color: white
+}
 
-.skill-item {color: white}
+.skill-item {
+	color: white
+}
 
-.interest-and-hobbies-white-text {color:white}
+.interest-and-hobbies-white-text {
+	color:white
+}
 
 .bold-900 {
 	font-family: 'Prompt', sans-serif;
-	font-weight: 900;}
+	font-weight: 900;
+}
 
 .medium-500 {
 	font-family: 'Prompt', sans-serif;
-	font-weight: 500;}
+	font-weight: 500;
+}
 
 .bold-500-cursive {
 	font-family: 'Prompt', sans-serif;
-	font-weight: 500 , cursive;} 
+	font-weight: 500 , cursive;
+} 
 
-.align-items-center {color: powderblue}
+.align-items-center {
+	color: powderblue
+}
